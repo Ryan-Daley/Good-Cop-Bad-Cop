@@ -1,4 +1,4 @@
-# Good-Cop-Bad-Cop
+# Good Cop Bad Cop
 #### Analysing policing behaviour using the Center for Policing Equity's Policing Dataset
 #### [Click here for full project](https://raw.githubusercontent.com/Ryan-Daley/Good-Cop-Bad-Cop/main/MA304%20-%20EDA%20of%20CPE%20data.pdf)
 ![MA304 - pic1](https://user-images.githubusercontent.com/113039811/224426897-1226bb09-cdc5-4a1b-af6e-8156ae274315.png)
